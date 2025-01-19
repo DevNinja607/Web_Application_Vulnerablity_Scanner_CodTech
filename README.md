@@ -1,4 +1,5 @@
-# Web_Application_VName: ROHITH ALLADA
+# Web_Application_Vulnerability_Scanner
+Name: ROHITH ALLADA
 
 Company: CODTECH IT SOLUTIONS
 
